@@ -39,7 +39,7 @@
     "react-dom": "^15.0.0",
     "rf-release": "0.4.0",
     "sinon": "^1.17.3",
-    "uglify-js": "2.4.24",
+    "uglify-js": "3.10.0",
     "webpack": "^1.12.14",
     "webpack-dev-server": "1.11.0"
   },
